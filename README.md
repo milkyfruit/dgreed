@@ -1,7 +1,9 @@
 dgreed
 ======
 
-2D game engine, supports Windows, Linux, Mac, iOS and Android.
-The original repository is placed on googlecode (https://code.google.com/p/quibble/), but since google anounced to shut it down I moved engine to github.
-Author of dgreed engine is Andrius Mitkus, you can follow his blog here: http://amitk.us
-Here you can check games that use dgreed: http://www.qbcode.com
+License - BSD 
+
+2D game engine, works on Windows, Linux, Mac, iOS and Android.
+This is a backup repository, originally it was located on googlecode (https://code.google.com/p/quibble/)
+The engine was developed by Andrius Mitkus, you can follow him here: http://amitk.us
+A bunch of games included with this engine, my part was making game design and graphic assets.
